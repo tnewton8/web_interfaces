@@ -1,0 +1,20 @@
+body {
+background-color: grey;
+}
+div div h3{
+    color: purple;
+}
+div div div h3{
+ color: red;   
+}
+/*{
+border: 1px dashed #3A5FCD;
+} HELP*/
+
+p {
+color: #00E5EE;
+}
+
+div p {
+    color: #CC0000;
+}

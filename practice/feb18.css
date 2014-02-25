@@ -1,0 +1,37 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+/*Start adding your CSS below!*/
+
+.button{/*creating a class*/
+height: 45px;
+    width: 130px;
+    border-color: purple;
+    background-color: yellow;
+     border-style: solid; /*dash,dots,none,*/
+    border-width: 2px;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    padding-top: 30px;
+}
+
+a{
+   padding-top: 100px;
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    color: blue;
+    text-decoration: none;
+    
+}
