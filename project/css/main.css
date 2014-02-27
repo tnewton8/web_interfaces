@@ -1,4 +1,31 @@
+.box {
+background-color: gray;
+    padding-bottom:10px;
+}
+
 h1 {
  color: purple;
     font-family: TimesNewRoman;
+    color: white;
+    margin: .67em, 
+}
+
+tagline{
+ background-color: gray;
+    line-height: 30px;
+    
+}
+.mainnav{
+    background-color: blue;
+    color: white;
+}
+.events {
+    background-color: white;
+}
+
+.date {
+    font-family: helvetica, sans-serif;
+        font-style: bold;
+        font-size: 14pt;
+        color:red;
 }
