@@ -1,31 +1,44 @@
 .box {
-background-color: gray;
-    padding-bottom:10px;
+    background-color: gray;
+    padding-bottom: 10px;
 }
-
+body.aurariaposters{
+    Background-image:project/images/aurariaspostersbackground.jpg;
+}
 h1 {
- color: purple;
+    color: purple;
     font-family: TimesNewRoman;
     color: white;
-    margin: .67em, 
+    margin: .67em,
 }
-
-tagline{
- background-color: gray;
+h2 {
+    font-family: baskerville, timesnewroman, serif;
+}
+h4 {
+    font-style: baskerville, timesnewroman, serif;
+}
+tagline {
+    background-color: gray;
     line-height: 30px;
-    
 }
-.mainnav{
+.mainnav {
     background-color: blue;
     color: white;
 }
 .events {
     background-color: white;
 }
-
 .date {
     font-family: helvetica, sans-serif;
-        font-style: bold;
-        font-size: 14pt;
-        color:red;
+    font-style: bold;
+    font-size: 14pt;
+    color: red;
+}
+
+.btn:active,
+.btn.active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .1);
+          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .1);
 }
