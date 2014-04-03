@@ -1,7 +1,694 @@
-.box {
-    background-color: gray;
-    padding-bottom: 10px;
+.img2 { 
+   border:15px solid black;
 }
+.postersexperimentblack-button {  /* button used on: talking toilet */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: black;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: black;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent: 0px;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 23px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 11px;
+    margin-right: -4px;
+    padding-bottom: px;
+}
+.postersexperimentblack-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.postersexperimentblack-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.postersexperimentmain-button {  /* button used on:main page */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent: 0px;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 23px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 21px;
+    margin-left: -5px;
+    
+}
+.postersexperimentmain-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.postersexperimentmain-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.postersexperimentblack-button {  /* button used on: talking toilet */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: black;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: black;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent: 0px;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 23px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 11px;
+    margin-right: -4px;
+    padding-bottom: px;
+}
+.postersexperimentblack-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.postersexperimentblack-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.postersexperiment-button {  /* button used on: resources, about,  graffiti experiment */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent: 0px;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 23px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 11px;
+    margin-right: -4px;
+    padding-bottom: px;
+}
+.postersexperiment-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.postersexperiment-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.graffitiexperimentposters-button {  /* button used on: main page, posters  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 20px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 12px;
+    margin-right: -4px;
+    
+    
+}
+.graffitiexperimentposters-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.graffitiexperimentposters-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.posters2-button {  /* button used on: main page,  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 20px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 22px;
+    margin-left: -4px;
+    
+}
+.posters2-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.posters2-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+
+.blackgraffitiexperiment-button {  /* button used on: resources, about,  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: black;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: black;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 20px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 8px;
+    margin-right: -4px;
+    
+}
+.blackgraffitiexperiment-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.blackgraffitiexperiment-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.blackabout-button {  /* button used on: recources, about,  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size:25px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:82px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 30px;
+    margin-left: -4px;
+    
+    
+}
+.blackabout-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.blackabout-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+
+.graffitiexperiment-button { /* button used on: main page,  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size: 20px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 12px;
+    margin-right: -4px;
+    
+}
+.graffitiexperiment-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.graffitiexperiment-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.home-button { /* this button is used on: resources, about, talking toilet, posters, experiment  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #999999;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #999999;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size:20px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:40px;
+	line-height:25px;
+	width: 85px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 1px;
+    margin-left: 83px;
+    margin-top: -5px;
+}
+.home-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.home-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+.talking-button { /* pages that use this button: resources, about,  main page, auraria posters, experiment  */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background:black;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 0px solid black;
+	display:inline-block;
+	color:white;
+	font-family: baskerville;
+	font-size:18px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:30px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 10px;
+}
+.talking-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.talking-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+/* This button was generated using CSSButtonGenerator.com */
+
+
+.about-button { /* Button is used on: main page, Talking toilet page, auraria poster, graffiti experiment */
+	-moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background: #4D4D4D;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color: #4D4D4D;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 6px solid black;
+	display:inline-block;
+	color:white;
+	font-family:Baskerville;
+	font-size:25px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:82px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 19px;
+    margin-left: -4px;
+    
+}
+.about-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.about-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+/* This button was generated using CSSButtonGenerator.com */
+
+.resource-button { /*Resources button for: Main page, auraria's posters, graffiti experiment, auraria talking toilet  */
+    -moz-box-shadow: 21px 16px 9px 0px lightgrey;
+	-webkit-box-shadow: 21px 16px 9px 0px lightgrey;
+	box-shadow: 21px 16px 9px 0px lightgrey;
+	background:black;
+	background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border: 10px solid black;
+	display:inline-block;
+	color: white;
+	font-family:Baskerville;
+	font-size:25px;
+/*	font-weight:bold;*/
+	font-style:normal;
+	height:80px;
+	line-height:25px;
+	width:165px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px grey;
+    padding-top: 15px;
+}
+.resource-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, grey), color-stop(1, black) );
+	background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='black', endColorstr='black');
+	background-color:black;
+}.resource-button:active {
+	position:relative;
+	top:1px;
+    color: red;
+}
+
+@font-face {
+    font-family: 'Imprint Mt Shadow';
+    src: url ('ufonts.com_imprint_mt_shadow__2_.ttf');
+    src: url('ufonts.com_imprint_mt_shadow__2_.eot');
+    font-style: normal;
+    font-weight: normal;
+    
+}
+     
+    
+body.aurariaposters{
+    Background-image:project/images/aurariaspostersbackground.jpg;
+}
+h1 {
+    color: purple;
+    font-family: Times New Roman, serif;
+    color: white;
+    margin: .67em,
+}
+h2 {
+    font-family: Baskerville, Century Schoolbook, serif;
+}
+h3 {
+    font-style: imprint_mt_shadow__2_, castellar, Times New Roman, serif;
+    
+}
+h4 {
+    font-style: Imprint MT Shadow, Times New Roman, serif;
+    padding-left: 75px;
+    font-size: 35px; 
+}
+h5 {
+    font-style: Baskerville, Century Schoolbook, serif;
+    color: black;
+}
+ul {
+padding-left: 155px;
+font-size: 20px;
+}
+
+p {
+    padding-left: 115px;
+    padding-right: 135px;
+    font-size: 20px;
+}
+
+
+/* This button was generated using CSSButtonGenerator.com */
+
+
+/*
+.box {
+    ackground-color: gray;
+    adding-bottom: 10px;
+}
+
+
+
 body.aurariaposters{
     Background-image:project/images/aurariaspostersbackground.jpg;
 }
@@ -14,9 +701,12 @@ h1 {
 h2 {
     font-family: baskerville, timesnewroman, serif;
 }
-h4 {
-    font-style: baskerville, timesnewroman, serif;
+h3 {
+    font-style: ImprintMTshadow, timesnewroman, serif;
+    text-align: center;
 }
+
+/*
 tagline {
     background-color: gray;
     line-height: 30px;
@@ -34,11 +724,26 @@ tagline {
     font-size: 14pt;
     color: red;
 }
+*/
 
-.btn:active,
+/*.btn:active,
 .btn.active {
   background-image: none;
   outline: 0;
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .1);
           box-shadow: inset 0 3px 5px rgba(0, 0, 0, .1);
 }
+
+.shadow1 {
+ box-shadow: 11px 5px 15px 5px rgba(119, 119, 119, 0.78);
+
+
+}
+-moz-box-shadow: 15px 15px 10px 5px rgba(119, 119, 119, 0.78);
+-webkit-box-shadow: 11px 11px 15px 5px rgba(119, 119, 119, 0.78);
+
+.btn-default {
+  color: purple;
+  background-color: #fff;
+  border-color: #ccc;
+}*/
