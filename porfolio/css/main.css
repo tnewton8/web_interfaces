@@ -1,3 +1,248 @@
+.home_hsapage {
+	-moz-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	-webkit-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	box-shadow:inset -3px 4px 7px 3px #d197fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #cfb3e6) );
+	background:-moz-linear-gradient( center top, #a53df6 5%, #cfb3e6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#cfb3e6');
+	background-color:#a53df6;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-4px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:11px;
+	font-weight:bold;
+	font-style:normal;
+	height:46px;
+	line-height:46px;
+	width:48px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 2px #7d15cd;
+    padding-left: 5px;
+    margin-top: 29px; /*addjust little button to fit bottom of page at the end*/
+}
+.home_hsapage:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
+	background:-moz-linear-gradient( center top, #cfb3e6 5%, #a53df6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cfb3e6', endColorstr='#a53df6');
+	background-color:#cfb3e6;
+}.home_hsapage:active {
+	position:relative;
+	top:1px;
+}
+.aboutartist_hsapage {
+	-moz-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	-webkit-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	box-shadow:inset -3px 4px 7px 3px #d197fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #cfb3e6) );
+	background:-moz-linear-gradient( center top, #a53df6 5%, #cfb3e6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#cfb3e6');
+	background-color:#a53df6;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:80px;
+	line-height:14px;
+	width:85px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 2px #7d15cd;
+    padding-top: 32px;
+}
+.aboutartist_hsapage:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
+	background:-moz-linear-gradient( center top, #cfb3e6 5%, #a53df6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cfb3e6', endColorstr='#a53df6');
+	background-color:#cfb3e6;
+}.aboutartist_hsapage:active {
+	position:relative;
+	top:1px;
+}
+.doodleart_hsapage {
+	-moz-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	-webkit-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	box-shadow:inset -3px 4px 7px 3px #d197fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #cfb3e6) );
+	background:-moz-linear-gradient( center top, #a53df6 5%, #cfb3e6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#cfb3e6');
+	background-color:#a53df6;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:80px;
+	line-height:14px;
+	width:85px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 2px #7d15cd;
+    padding-top: 32px;
+}
+.doodleart_hsapage:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
+	background:-moz-linear-gradient( center top, #cfb3e6 5%, #a53df6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cfb3e6', endColorstr='#a53df6');
+	background-color:#cfb3e6;
+}.doodleart_hsapage:active {
+	position:relative;
+	top:1px;
+}
+.collegeart_hsapage {
+	-moz-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	-webkit-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	box-shadow:inset -3px 4px 7px 3px #d197fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #cfb3e6) );
+	background:-moz-linear-gradient( center top, #a53df6 5%, #cfb3e6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#cfb3e6');
+	background-color:#a53df6;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:80px;
+	line-height:14px;
+	width:85px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 2px #7d15cd;
+    padding-top: 32px;
+}
+.collegeart_hsapage:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
+	background:-moz-linear-gradient( center top, #cfb3e6 5%, #a53df6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cfb3e6', endColorstr='#a53df6');
+	background-color:#cfb3e6;
+}.collegeart_hsapage:active {
+	position:relative;
+	top:1px;
+}
+
+.highschoolart_hsapage {
+	-moz-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	-webkit-box-shadow:inset -3px 4px 7px 3px #d197fe;
+	box-shadow:inset -3px 4px 7px 3px #d197fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a53df6), color-stop(1, #cfb3e6) );
+	background:-moz-linear-gradient( center top, #a53df6 5%, #cfb3e6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#cfb3e6');
+	background-color:#a53df6;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:13px;
+	font-weight:bold;
+	font-style:normal;
+	height:80px;
+	line-height:14px;
+	width:85px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 0px 2px #7d15cd;
+    padding-top: 20px;
+}
+.highschoolart_hsapage:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
+	background:-moz-linear-gradient( center top, #cfb3e6 5%, #a53df6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cfb3e6', endColorstr='#a53df6');
+	background-color:#cfb3e6;
+}.highschoolart_hsapage:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Gallary show*/
 ul.enlarge{
 list-style-type:none; /*remove the bullet point*/
 margin-left:0;
