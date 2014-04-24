@@ -200,7 +200,7 @@
 	display:inline-block;
 	color:#ffffff;
 	font-family:Georgia;
-	font-size:13px;
+	font-size:12px;
 	font-weight:bold;
 	font-style:normal;
 	height:80px;
@@ -209,7 +209,7 @@
 	text-decoration:none;
 	text-align:center;
 	text-shadow:0px 0px 2px #7d15cd;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 .highschoolart_hsapage:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #cfb3e6), color-stop(1, #a53df6) );
