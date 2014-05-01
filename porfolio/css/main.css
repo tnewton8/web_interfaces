@@ -304,8 +304,8 @@ behavior: url(pie/PIE.htc);
 }
 
 
-p {
-    font-size: 25pt;
+.infoartist {
+    font-size: 25px;
     align-content: right;
     font-family: georgia, timesnewroman, serif;
     background-color: #660066;
