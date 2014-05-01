@@ -1,0 +1,37 @@
+* {
+font-family: helvetica, arial, sans-serif;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: helvetica, arial, sans-serif;
+    color: #EE5A3F; 
+}
+h5 {
+
+color: #EE5A3F;
+}
+p {
+    font-family: helvetica, arial, sans-serif;
+}
+<!--ol {
+font-family: helvetica, arial, sans-serif;    
+}-->
+img {
+    margin: 30px;
+}
+<!--big-box {
+    align-content: center;
+ background-color: #8FDAD6;
+    width: 100px;-->
+    
+    
+}
+.big-box{
+    color: #31757D;
+    font-size: 40px;
+    text-align: center;
+    background-color: #8FDAD6;
+    width: 100%;
+}
+    
