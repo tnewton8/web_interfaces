@@ -311,13 +311,9 @@ behavior: url(pie/PIE.htc);
 }
 
 .infoartist {
-<<<<<<< HEAD
-    text-indent:50px;
+   text-indent: 50px;
     padding: 1.8em;
-    font-size: 16px;
-=======
     font-size: 25px;
->>>>>>> ec18a9ee413a714c020455ce5d8d0764adc937aa
     align-content: right;
     font-family: georgia, timesnewroman, serif;
     background-color: #660066;
